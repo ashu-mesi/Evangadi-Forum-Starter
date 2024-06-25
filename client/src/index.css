@@ -1,0 +1,20 @@
+.action-btn:hover {
+    background-color: #fe8402 !important;
+  }
+  .nav-item a:hover {
+    color: #fe8402 !important;
+  }
+  .landing {
+    height: 100vh; 
+  }
+  .abt, .abt .col {
+    color: #fe8402;
+    font-size: 1.5rem;
+    /* padding-top: 2rem; */
+  }
+  .user svg {
+    width: 100px;
+    height: 100px;
+  }
+  
+  

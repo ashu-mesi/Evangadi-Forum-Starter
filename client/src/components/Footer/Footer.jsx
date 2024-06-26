@@ -42,17 +42,12 @@ function Footer() {
               <ul className="list-menu">
                 <h5>Useful Link</h5>
                 <li>
-                  <a className="text-decoration-none" href="/explained">
-                    How it works{" "}
-                  </a>
-                </li>
-                <li>
-                  <a className="text-decoration-none" href="/legal/terms/">
+                  <a className="text-decoration-none" href="https://www.evangadi.com/legal/terms/">
                     Terms of Service
                   </a>
                 </li>
                 <li>
-                  <a className="text-decoration-none" href="/legal/privacy/">
+                  <a className="text-decoration-none" href="https://www.evangadi.com/legal/privacy/">
                     Privacy policy
                   </a>
                 </li>
@@ -61,7 +56,6 @@ function Footer() {
             <div className="col-lg-4 col-md-4">
               <ul className="list-menu contact-list">
                 <h5 className="">Contact Info</h5>
-                <li>Evangadi Networks</li>
                 <li>support@evangadi.com</li>
                 <li>+1-202-386-2702</li>
               </ul>

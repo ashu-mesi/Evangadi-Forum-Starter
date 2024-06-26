@@ -8,7 +8,7 @@ import { FaArrowAltCircleRight } from "react-icons/fa";
 // footer
 import Footer from "../Footer/Footer";
 
-const AskQuestion = () => {
+const Question = () => {
   const navigate = useNavigate();
   const { user } = useContext(AppState);
   const token = localStorage.getItem("token");
@@ -155,4 +155,4 @@ const AskQuestion = () => {
   );
 };
 
-export default AskQuestion;
+export default Question;

@@ -29,16 +29,9 @@ function LandingLayout() {
             <h2>Evangadi Networks Q&A</h2>
             <div className="d-flex flex-column gap-4 fs-8 font-family-sans-serif">
               <p style={{fontFamily: "sans-serif", textAlign: "justify"}}>
-                No matter what stage of life you are in, whether you’re just
-                starting elementary school or being promoted to CEO of a Fortune
-                500 company, you have much to offer to those who are trying to
-                follow in your footsteps.
+              Evangadi Networks is all about creating a network of people who believe in the power of collaboration with a common goal of transforming their life through the power of learning how to code.   We believe no matter what stage of life you are in, whether you’re just starting elementary school or being promoted to CEO of a Fortune 500 company, you have much to offer to those who are trying to follow in your footsteps. 
               </p>
-              <p style={{fontFamily: "sans-serif"}}>
-                Whether you are willing to share your knowledge or you are just
-                looking to meet mentors of your own, please start by joining the
-                network here.
-              </p>
+          
             </div>
             <div>
               <button
